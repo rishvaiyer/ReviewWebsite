@@ -1,0 +1,9 @@
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\obj\Debug\Procedures.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\obj\Debug\Procedures.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\bin\Debug\Procedures.dll
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\bin\Debug\Procedures.pdb
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\bin\Debug\Utilities.dll
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\bin\Debug\Utilities.pdb
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\obj\Debug\Procedures.csproj.CopyComplete
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\obj\Debug\Procedures.dll
+C:\Users\rishi\Desktop\RishIyerProject3\Procedures\obj\Debug\Procedures.pdb

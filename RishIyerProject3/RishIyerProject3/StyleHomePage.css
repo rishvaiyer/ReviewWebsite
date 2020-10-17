@@ -1,0 +1,99 @@
+﻿body {
+
+   
+ 
+   background-color: white;
+    padding-bottom: 0px;
+
+
+}
+
+#title {
+   font-family: 'Pacifico', cursive;
+    font-size: 90px;
+    text-align: center;
+    color: darkslategrey;
+    font-weight: 900;
+}
+
+
+.continueAs {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    text-decoration: wavy;
+}
+.subTitle {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight:bolder;
+    text-decoration: wavy;
+}
+
+.labelWhite {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    text-decoration: wavy;
+}
+#strike {
+    text-decoration: line-through;
+    display: inline;
+}
+
+#signUpButtons {
+    margin-left: 0 auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+    
+}
+
+.buttonsAlign {
+    position: center;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    width: 50%;
+}
+
+#image {
+    position: fixed;
+    right: -1px;
+    top: 50px;
+    height: 30%;
+    width: 20%;
+  
+   
+}
+
+
+
+#btnBackSignUp {
+   
+    left: 10px;
+    height: 50px;
+    
+}
+
+#btnSignUp {
+
+    height: 50px;
+}
+
+#imageHome {
+    position: center;
+    display: block;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border-radius: 50%;
+   border: solid 5px yellowgreen;
+ 
+    margin: 0 auto;
+}

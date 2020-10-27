@@ -1,5 +1,0 @@
-C:\Users\rishi\Desktop\RishIyerProject3\Utilities\bin\Debug\Utilities.dll
-C:\Users\rishi\Desktop\RishIyerProject3\Utilities\bin\Debug\Utilities.pdb
-C:\Users\rishi\Desktop\RishIyerProject3\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
-C:\Users\rishi\Desktop\RishIyerProject3\Utilities\obj\Debug\Utilities.dll
-C:\Users\rishi\Desktop\RishIyerProject3\Utilities\obj\Debug\Utilities.pdb
